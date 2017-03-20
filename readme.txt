@@ -1,6 +1,6 @@
 WisNode-UART is based on the RAK477 module developed by an open source hardware.
 
-You can quickly use the WisNode-UART by looking at our quick manuals,If you want to learn more, please refer to our RAK477 information : https://github.com/RAKWireless/RAK477
+You can quickly use the WisNode-UART by looking at our quick manuals,If you want to learn more, please refer to our RAK477 information: https://github.com/RAKWireless/RAK477
 
 
 
